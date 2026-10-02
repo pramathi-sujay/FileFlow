@@ -170,3 +170,4 @@ def get_category_description(category: str) -> str:
 def validate_category(category: str) -> bool:
     """Check whether a category is part of FileFlow."""
     return category in CATEGORY_ORDER
+

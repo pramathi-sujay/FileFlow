@@ -149,3 +149,4 @@ class FileManager:
             "categories": category_counts,
             "total": total,
         }
+
